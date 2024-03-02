@@ -1,0 +1,1191 @@
+repo_name: cjlvscjl/qiankun
+report_id: 51ed70bd8406817bba870780404c7003
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-02T13:02:26+00:00'
+requested_by: qiongshusheng
+provider: github
+branch: master
+detected_tools_count: 87
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/cjlvscjl/qiankun
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/cjlvscjl/qiankun
+  detection_source: Repo Metadata
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Ant Design
+  description: A set of high-quality React components
+  website_url: https://ant.design
+  version: 2.13.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6112/12101536.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/react15/package.json
+  detection_source: examples/react15/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 3.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue3/package.json
+  detection_source: examples/vue3/package.json
+  last_updated_by: 禾呈
+  last_updated_on: 2020-10-09 15:24:13.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/react16/package.json
+  detection_source: examples/react16/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.5.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/.github/workflows/announcement-notify.yml
+  detection_source: ".github/workflows/announcement-notify.yml"
+  last_updated_by: Kuitos
+  last_updated_on: 2022-02-28 06:10:12.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 25.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2022-05-23 08:07:06.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 5.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.41.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2022-05-23 08:07:06.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2022-05-23 08:07:06.000000000 Z
+- name: single-spa
+  description: The javascript metaframework
+  website_url: https://github.com/CanopyTax/single-spa
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6428/JSPM.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: gwuhaolin
+  last_updated_on: 2022-09-05 10:56:38.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 0.900.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 9.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@babel/plugin-transform-react-jsx"
+  description: Turn JSX into React function calls
+  package_url: https://www.npmjs.com/@babel/plugin-transform-react-jsx
+  version: 7.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16556/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.10.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 25.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2023-07-20 09:50:10.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.129
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2023-07-20 09:50:10.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue3/package.json
+  detection_source: examples/vue3/package.json
+  last_updated_by: peterWang
+  last_updated_on: 2021-04-13 06:35:29.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: antd
+  description: An enterprise-class UI design language and React components implementation
+  package_url: https://www.npmjs.com/antd
+  version: 2.13.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16201/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/react15/package.json
+  detection_source: examples/react15/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue3/package.json
+  detection_source: examples/vue3/package.json
+  last_updated_by: peterWang
+  last_updated_on: 2021-04-13 06:35:29.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: babel-plugin-import
+  description: Component modular import plugin for babel
+  package_url: https://www.npmjs.com/babel-plugin-import
+  version: 1.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2023-08-28 03:04:29.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: element-ui
+  description: A Component Library for Vue.js
+  package_url: https://www.npmjs.com/element-ui
+  version: 2.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16240/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue3/package.json
+  detection_source: examples/vue3/package.json
+  last_updated_by: peterWang
+  last_updated_on: 2021-04-13 06:35:29.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/purehtml/package.json
+  detection_source: examples/purehtml/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2022-05-23 08:07:06.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 4.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: less-loader
+  description: A Less loader for webpack. Compiles Less to CSS
+  package_url: https://www.npmjs.com/less-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2022-05-23 08:07:06.000000000 Z
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  version: 5.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: gongshun
+  last_updated_on: 2021-05-25 09:47:21.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/react16/package.json
+  detection_source: examples/react16/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/react16/package.json
+  detection_source: examples/react16/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 25.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2022-05-23 08:07:06.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.10.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/vue/package.json
+  detection_source: examples/vue/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/main/package.json
+  detection_source: examples/main/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/cjlvscjl/qiankun/blob/master/examples/angular9/package.json
+  detection_source: examples/angular9/package.json
+  last_updated_by: Kuitos
+  last_updated_on: 2020-08-21 07:07:24.000000000 Z
